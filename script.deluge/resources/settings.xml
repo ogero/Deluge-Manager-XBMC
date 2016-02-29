@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <setting id="torrent_deluge_host" type="text" label="32801" default="127.0.0.1"/>
+    <setting id="torrent_deluge_port" type="number" label="32802" default="8112"/>
+    <setting id="torrent_deluge_password" type="text" option="hidden" label="32803" default="deluge"/>
+    <setting id="torrent_deluge_path" type="text" label="32804" default="/"/>
+    <setting id="stop_all_on_playback" type="bool" label="32805" default="false"/>
+    <setting id="gui_refresh_interval" type="number" label="32806" default="3"/>
+    <setting id="download_path" type="folder" label="32807" default=""/>
+    <setting id="last_search" type="text"/>
+</settings>

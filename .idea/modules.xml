@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/kodistubs/kodistubs.iml" filepath="$PROJECT_DIR$/kodistubs/kodistubs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/script.deluge/script.deluge.iml" filepath="$PROJECT_DIR$/script.deluge/script.deluge.iml" />
+    </modules>
+  </component>
+</project>
